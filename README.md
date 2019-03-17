@@ -1,0 +1,2 @@
+# EatingSnake
+a simple game
